@@ -1,0 +1,4 @@
+Definitions   
+    Type: string   
+    Description: prints xss   
+    Default: <script>console.log(‘SecOps says Hello world');</script>
